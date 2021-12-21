@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableau on SUONG FIORI</title>
+    <link>https://databl0g.github.io/suongfiori/tags/tableau/</link>
+    <description>Recent content in Tableau on SUONG FIORI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://databl0g.github.io/suongfiori/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: TABLEAU DASHBOARDS</title>
+      <link>https://databl0g.github.io/suongfiori/post/project-4/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://databl0g.github.io/suongfiori/post/project-4/</guid>
+      <description>Link to My Tableau public page</description>
+    </item>
+    
+  </channel>
+</rss>

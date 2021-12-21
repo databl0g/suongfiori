@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analyst Portfolio on SUONG FIORI</title>
+    <link>https://databl0g.github.io/suongfiori/</link>
+    <description>Recent content in Data Analyst Portfolio on SUONG FIORI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://databl0g.github.io/suongfiori/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: TABLEAU DASHBOARDS</title>
+      <link>https://databl0g.github.io/suongfiori/post/project-4/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://databl0g.github.io/suongfiori/post/project-4/</guid>
+      <description>Link to My Tableau public page</description>
+    </item>
+    
+    <item>
+      <title>Project 3: NASHVILLE HOUSING</title>
+      <link>https://databl0g.github.io/suongfiori/post/project-3/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://databl0g.github.io/suongfiori/post/project-3/</guid>
+      <description>DATA CLEANING IN SQL QUERIES
+ Standadized date format Populate &amp;ldquo;Property Address&amp;rdquo; data Breaking out &amp;ldquo;Address&amp;rdquo; into Individual columns (Address, City, State) Change &amp;ldquo;Y&amp;rdquo; and &amp;ldquo;N&amp;rdquo; to &amp;ldquo;Yes&amp;rdquo; and &amp;ldquo;No&amp;rdquo; in &amp;ldquo;Sold As Vacant&amp;rdquo; data Remove Duplicates Delete unused columns  Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: LONDON HOUSING</title>
+      <link>https://databl0g.github.io/suongfiori/post/project-2/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://databl0g.github.io/suongfiori/post/project-2/</guid>
+      <description>This project aims to explore the housing market of London in the years between 1995 and 2020. We are going to perform exploratory data analysis to discover new information and answer the following questions:
+ How has the housing market (average house price and the number of houses sold) changed over the years in different boroughs of London and English regions? What are observations on the values that average house price takes at different times?</description>
+    </item>
+    
+    <item>
+      <title>Project 1: WELLNESS TRACKER</title>
+      <link>https://databl0g.github.io/suongfiori/post/project-1/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://databl0g.github.io/suongfiori/post/project-1/</guid>
+      <description>A usage trends analysis with exploratory approach Tool used: R
+Project scenario  The purpose of the analysis is to provide Bellabeat - a successful small high-tech manufacturer of health-focused products for women - an insight into how consumers are using a competitor’s devices (i.e, Fitbit tracker). Insights gained from the analysis would then be used to help inform Bellabeat’s marketing strategy.  Process  Exploring the Fitbit Fitness Tracker dataset contains personal fitness tracker data consented from thirty fitbit users.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://databl0g.github.io/suongfiori/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://databl0g.github.io/suongfiori/contact/</guid>
+      <description>Visit my platforms:
+   Platform URL     LinkedIn: https://www.linkedin.com/in/suongfiori/   Kaggle: https://www.kaggle.com/mimosabella   GitHub: https://github.com/databl0g   Tableau: https://public.tableau.com/profile/suong.fiori#!/    </description>
+    </item>
+    
+  </channel>
+</rss>
