@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SQL on SUONG FIORI</title>
+    <title>SQL on 𝑺𝒖𝒐𝒏𝒈 𝑭𝒊𝒐𝒓𝒊</title>
     <link>https://databl0g.github.io/suongfiori/tags/sql/</link>
-    <description>Recent content in SQL on SUONG FIORI</description>
+    <description>Recent content in SQL on 𝑺𝒖𝒐𝒏𝒈 𝑭𝒊𝒐𝒓𝒊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://databl0g.github.io/suongfiori/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 3: NASHVILLE HOUSING</title>
+      <title>Project 3: 🏠 NASHVILLE HOUSING</title>
       <link>https://databl0g.github.io/suongfiori/post/project-3/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://databl0g.github.io/suongfiori/post/project-3/</guid>
-      <description>DATA CLEANING IN SQL QUERIES
- Standadized date format Populate &amp;ldquo;Property Address&amp;rdquo; data Breaking out &amp;ldquo;Address&amp;rdquo; into Individual columns (Address, City, State) Change &amp;ldquo;Y&amp;rdquo; and &amp;ldquo;N&amp;rdquo; to &amp;ldquo;Yes&amp;rdquo; and &amp;ldquo;No&amp;rdquo; in &amp;ldquo;Sold As Vacant&amp;rdquo; data Remove Duplicates Delete unused columns  Link to Github repository</description>
+      <description>𝘋𝘈𝘛𝘈 𝘊𝘓𝘌𝘈𝘕𝘐𝘕𝘎 𝘐𝘕 𝘚𝘘𝘓 𝘘𝘜𝘌𝘙𝘐𝘌𝘚
+ 𝘚𝘵𝘢𝘯𝘥𝘢𝘥𝘪𝘻𝘦𝘥 𝘥𝘢𝘵𝘦 𝘧𝘰𝘳𝘮𝘢𝘵 𝘗𝘰𝘱𝘶𝘭𝘢𝘵𝘦 &amp;ldquo;𝘗𝘳𝘰𝘱𝘦𝘳𝘵𝘺 𝘈𝘥𝘥𝘳𝘦𝘴𝘴&amp;rdquo; 𝘥𝘢𝘵𝘢 𝘉𝘳𝘦𝘢𝘬𝘪𝘯𝘨 𝘰𝘶𝘵 &amp;ldquo;𝘈𝘥𝘥𝘳𝘦𝘴𝘴&amp;rdquo; 𝘪𝘯𝘵𝘰 𝘐𝘯𝘥𝘪𝘷𝘪𝘥𝘶𝘢𝘭 𝘤𝘰𝘭𝘶𝘮𝘯𝘴 (𝘈𝘥𝘥𝘳𝘦𝘴𝘴, 𝘊𝘪𝘵𝘺, 𝘚𝘵𝘢𝘵𝘦) 𝘊𝘩𝘢𝘯𝘨𝘦 &amp;ldquo;𝘠&amp;rdquo; 𝘢𝘯𝘥 &amp;ldquo;𝘕&amp;rdquo; 𝘵𝘰 &amp;ldquo;𝘠𝘦𝘴&amp;rdquo; 𝘢𝘯𝘥 &amp;ldquo;𝘕𝘰&amp;rdquo; 𝘪𝘯 &amp;ldquo;𝘚𝘰𝘭𝘥 𝘈𝘴 𝘝𝘢𝘤𝘢𝘯𝘵&amp;rdquo; 𝘥𝘢𝘵𝘢 𝘙𝘦𝘮𝘰𝘷𝘦 𝘋𝘶𝘱𝘭𝘪𝘤𝘢𝘵𝘦𝘴 𝘋𝘦𝘭𝘦𝘵𝘦 𝘶𝘯𝘶𝘴𝘦𝘥 𝘤𝘰𝘭𝘶𝘮𝘯𝘴  Link to Github repository</description>
     </item>
     
   </channel>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dataset on SUONG FIORI</title>
+    <title>dataset on 𝑺𝒖𝒐𝒏𝒈 𝑭𝒊𝒐𝒓𝒊</title>
     <link>https://databl0g.github.io/suongfiori/tags/dataset/</link>
-    <description>Recent content in dataset on SUONG FIORI</description>
+    <description>Recent content in dataset on 𝑺𝒖𝒐𝒏𝒈 𝑭𝒊𝒐𝒓𝒊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://databl0g.github.io/suongfiori/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 2: LONDON HOUSING</title>
+      <title>Project 2: 🏠 LONDON HOUSING</title>
       <link>https://databl0g.github.io/suongfiori/post/project-2/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://databl0g.github.io/suongfiori/post/project-2/</guid>
-      <description>This project aims to explore the housing market of London in the years between 1995 and 2020. We are going to perform exploratory data analysis to discover new information and answer the following questions:
+      <description>This project aims to explore the housing market of London in the years between 1995 and 2020. 𝑾𝒆 𝒂𝒓𝒆 𝒈𝒐𝒊𝒏𝒈 𝒕𝒐 𝒑𝒆𝒓𝒇𝒐𝒓𝒎 𝒆𝒙𝒑𝒍𝒐𝒓𝒂𝒕𝒐𝒓𝒚 𝒅𝒂𝒕𝒂 𝒂𝒏𝒂𝒍𝒚𝒔𝒊𝒔 to discover new information and answer the following questions:
  How has the housing market (average house price and the number of houses sold) changed over the years in different boroughs of London and English regions? What are observations on the values that average house price takes at different times?</description>
     </item>
     

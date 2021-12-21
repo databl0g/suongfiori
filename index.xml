@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Analyst Portfolio on SUONG FIORI</title>
+    <title>Data Analyst Portfolio on 𝑺𝒖𝒐𝒏𝒈 𝑭𝒊𝒐𝒓𝒊</title>
     <link>https://databl0g.github.io/suongfiori/</link>
-    <description>Recent content in Data Analyst Portfolio on SUONG FIORI</description>
+    <description>Recent content in Data Analyst Portfolio on 𝑺𝒖𝒐𝒏𝒈 𝑭𝒊𝒐𝒓𝒊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://databl0g.github.io/suongfiori/index.xml" rel="self" type="application/rss+xml" />
@@ -17,33 +17,33 @@
     </item>
     
     <item>
-      <title>Project 3: NASHVILLE HOUSING</title>
+      <title>Project 3: 🏠 NASHVILLE HOUSING</title>
       <link>https://databl0g.github.io/suongfiori/post/project-3/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://databl0g.github.io/suongfiori/post/project-3/</guid>
-      <description>DATA CLEANING IN SQL QUERIES
- Standadized date format Populate &amp;ldquo;Property Address&amp;rdquo; data Breaking out &amp;ldquo;Address&amp;rdquo; into Individual columns (Address, City, State) Change &amp;ldquo;Y&amp;rdquo; and &amp;ldquo;N&amp;rdquo; to &amp;ldquo;Yes&amp;rdquo; and &amp;ldquo;No&amp;rdquo; in &amp;ldquo;Sold As Vacant&amp;rdquo; data Remove Duplicates Delete unused columns  Link to Github repository</description>
+      <description>𝘋𝘈𝘛𝘈 𝘊𝘓𝘌𝘈𝘕𝘐𝘕𝘎 𝘐𝘕 𝘚𝘘𝘓 𝘘𝘜𝘌𝘙𝘐𝘌𝘚
+ 𝘚𝘵𝘢𝘯𝘥𝘢𝘥𝘪𝘻𝘦𝘥 𝘥𝘢𝘵𝘦 𝘧𝘰𝘳𝘮𝘢𝘵 𝘗𝘰𝘱𝘶𝘭𝘢𝘵𝘦 &amp;ldquo;𝘗𝘳𝘰𝘱𝘦𝘳𝘵𝘺 𝘈𝘥𝘥𝘳𝘦𝘴𝘴&amp;rdquo; 𝘥𝘢𝘵𝘢 𝘉𝘳𝘦𝘢𝘬𝘪𝘯𝘨 𝘰𝘶𝘵 &amp;ldquo;𝘈𝘥𝘥𝘳𝘦𝘴𝘴&amp;rdquo; 𝘪𝘯𝘵𝘰 𝘐𝘯𝘥𝘪𝘷𝘪𝘥𝘶𝘢𝘭 𝘤𝘰𝘭𝘶𝘮𝘯𝘴 (𝘈𝘥𝘥𝘳𝘦𝘴𝘴, 𝘊𝘪𝘵𝘺, 𝘚𝘵𝘢𝘵𝘦) 𝘊𝘩𝘢𝘯𝘨𝘦 &amp;ldquo;𝘠&amp;rdquo; 𝘢𝘯𝘥 &amp;ldquo;𝘕&amp;rdquo; 𝘵𝘰 &amp;ldquo;𝘠𝘦𝘴&amp;rdquo; 𝘢𝘯𝘥 &amp;ldquo;𝘕𝘰&amp;rdquo; 𝘪𝘯 &amp;ldquo;𝘚𝘰𝘭𝘥 𝘈𝘴 𝘝𝘢𝘤𝘢𝘯𝘵&amp;rdquo; 𝘥𝘢𝘵𝘢 𝘙𝘦𝘮𝘰𝘷𝘦 𝘋𝘶𝘱𝘭𝘪𝘤𝘢𝘵𝘦𝘴 𝘋𝘦𝘭𝘦𝘵𝘦 𝘶𝘯𝘶𝘴𝘦𝘥 𝘤𝘰𝘭𝘶𝘮𝘯𝘴  Link to Github repository</description>
     </item>
     
     <item>
-      <title>Project 2: LONDON HOUSING</title>
+      <title>Project 2: 🏠 LONDON HOUSING</title>
       <link>https://databl0g.github.io/suongfiori/post/project-2/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://databl0g.github.io/suongfiori/post/project-2/</guid>
-      <description>This project aims to explore the housing market of London in the years between 1995 and 2020. We are going to perform exploratory data analysis to discover new information and answer the following questions:
+      <description>This project aims to explore the housing market of London in the years between 1995 and 2020. 𝑾𝒆 𝒂𝒓𝒆 𝒈𝒐𝒊𝒏𝒈 𝒕𝒐 𝒑𝒆𝒓𝒇𝒐𝒓𝒎 𝒆𝒙𝒑𝒍𝒐𝒓𝒂𝒕𝒐𝒓𝒚 𝒅𝒂𝒕𝒂 𝒂𝒏𝒂𝒍𝒚𝒔𝒊𝒔 to discover new information and answer the following questions:
  How has the housing market (average house price and the number of houses sold) changed over the years in different boroughs of London and English regions? What are observations on the values that average house price takes at different times?</description>
     </item>
     
     <item>
-      <title>Project 1: WELLNESS TRACKER</title>
+      <title>Project 1: 📱 WELLNESS TRACKER</title>
       <link>https://databl0g.github.io/suongfiori/post/project-1/</link>
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://databl0g.github.io/suongfiori/post/project-1/</guid>
-      <description>A usage trends analysis with exploratory approach Tool used: R
-Project scenario  The purpose of the analysis is to provide Bellabeat - a successful small high-tech manufacturer of health-focused products for women - an insight into how consumers are using a competitor’s devices (i.e, Fitbit tracker). Insights gained from the analysis would then be used to help inform Bellabeat’s marketing strategy.  Process  Exploring the Fitbit Fitness Tracker dataset contains personal fitness tracker data consented from thirty fitbit users.</description>
+      <description>𝘜𝘴𝘢𝘨𝘦 𝘵𝘳𝘦𝘯𝘥𝘴 𝘢𝘯𝘢𝘭𝘺𝘴𝘪𝘴 𝘸𝘪𝘵𝘩 𝘦𝘹𝘱𝘭𝘰𝘳𝘢𝘵𝘰𝘳𝘺 𝘢𝘱𝘱𝘳𝘰𝘢𝘤𝘩 𝐓𝐨𝐨𝐥: 𝐑
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐬𝐜𝐞𝐧𝐚𝐫𝐢𝐨  The purpose of the analysis is to provide Bellabeat - a successful small high-tech manufacturer of health-focused products for women - an insight into how consumers are using a competitor’s devices (i.e, Fitbit tracker). Insights gained from the analysis would then be used to help inform Bellabeat’s marketing strategy.  𝐏𝐫𝐨𝐜𝐞𝐬𝐬  Exploring the Fitbit Fitness Tracker dataset contains personal fitness tracker data consented from thirty fitbit users.</description>
     </item>
     
     <item>
